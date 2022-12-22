@@ -6,4 +6,4 @@ npm run start;
 
 RODAR CLIENT FRONTEND
 cd client;
-npm run start-dev
+npm run start-dev;
