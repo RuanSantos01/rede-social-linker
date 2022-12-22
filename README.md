@@ -1,9 +1,9 @@
-<h1>RODAR SERVER BACKEND</h1>
+<h3>RODAR SERVER BACKEND</h3>
 
-cd server;
-configure .env
-npm run start;
+cd server; \n
+configure .env \n
+npm run start; \n
 
-RODAR CLIENT FRONTEND
-cd client;
-npm run start-dev;
+<h3>RODAR CLIENT FRONTEND</h3>
+cd client; \n
+npm run start-dev; \n
